@@ -1,0 +1,66 @@
+km_marker,km,current_health_score,daily_deterioration_rate,deterioration_trend,days_until_critical,rul_prediction,confidence,defect_type,trains_reporting,projected_critical_date
+KM_10,10,85.3,-0.12,Slowly Declining,302.6,Failure in ~302 days — Monitor,MEDIUM,missing_bolt,3,2027-04-08
+KM_700,700,86.5,-0.25,Slowly Declining,146.0,Failure in ~146 days — Monitor,MEDIUM,no_defect,3,2026-11-03
+KM_1010,1010,98.0,-6.8,Rapidly Deteriorating,7.1,Failure in ~7 days — Monitor,MEDIUM,surface_crack,3,2026-06-17
+KM_320,320,68.8,-6.05,Rapidly Deteriorating,3.1,Failure in ~3 days — Schedule soon,MEDIUM,no_defect,3,2026-06-13
+KM_350,350,98.0,-8.32,Rapidly Deteriorating,5.8,Failure in ~5 days — Schedule soon,MEDIUM,missing_bolt,3,2026-06-15
+KM_380,380,88.0,-0.3,Slowly Declining,126.7,Failure in ~126 days — Monitor,MEDIUM,no_defect,3,2026-10-14
+KM_440,440,98.0,-7.43,Rapidly Deteriorating,6.5,Failure in ~6 days — Schedule soon,MEDIUM,no_defect,2,2026-06-16
+KM_460,460,88.0,-0.38,Slowly Declining,99.1,Failure in ~99 days — Monitor,MEDIUM,missing_bolt,3,2026-09-17
+KM_490,490,74.7,-0.67,Slowly Declining,37.1,Failure in ~37 days — Monitor,MEDIUM,rail_corrosion,2,2026-07-17
+KM_50,50,75.1,0.62,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,ballast_void,3,N/A
+KM_570,570,68.8,-6.35,Rapidly Deteriorating,3.0,Failure in ~2 days — URGENT ACTION,HIGH,missing_bolt,3,2026-06-13
+KM_580,580,68.8,-6.67,Rapidly Deteriorating,2.8,Failure in ~2 days — URGENT ACTION,HIGH,surface_crack,3,2026-06-12
+KM_60,60,84.9,-0.62,Slowly Declining,56.6,Failure in ~56 days — Monitor,MEDIUM,no_defect,2,2026-08-05
+KM_670,670,98.0,-7.37,Rapidly Deteriorating,6.5,Failure in ~6 days — Schedule soon,MEDIUM,surface_crack,3,2026-06-16
+KM_730,730,69.0,0.4,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,no_defect,3,N/A
+KM_270,270,98.0,-8.15,Rapidly Deteriorating,5.9,Failure in ~5 days — Schedule soon,MEDIUM,rail_corrosion,3,2026-06-15
+KM_740,740,78.2,0.38,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,no_defect,2,N/A
+KM_750,750,75.1,0.02,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,no_defect,2,N/A
+KM_780,780,75.7,0.1,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,no_defect,2,N/A
+KM_790,790,93.0,-4.52,Deteriorating,9.5,Failure in ~9 days — Monitor,MEDIUM,weld_defect,3,2026-06-19
+KM_80,80,65.6,0.2,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,weld_defect,3,N/A
+KM_820,820,72.2,-0.07,Slowly Declining,333.0,Failure in ~332 days — Monitor,MEDIUM,no_defect,2,2027-05-09
+KM_830,830,72.6,-0.15,Slowly Declining,150.7,Failure in ~150 days — Monitor,MEDIUM,no_defect,2,2026-11-07
+KM_850,850,82.6,-7.53,Rapidly Deteriorating,4.3,Failure in ~4 days — Schedule soon,MEDIUM,missing_bolt,3,2026-06-14
+KM_860,860,60.7,-0.07,Slowly Declining,160.5,Failure in ~160 days — Monitor,MEDIUM,no_defect,2,2026-11-17
+KM_880,880,81.7,-0.12,Slowly Declining,271.7,Failure in ~271 days — Monitor,MEDIUM,no_defect,3,2027-03-08
+KM_920,920,82.0,0.17,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,no_defect,3,N/A
+KM_970,970,82.0,0.18,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,no_defect,3,N/A
+KM_290,290,62.1,-0.47,Slowly Declining,25.9,Failure in ~25 days — Monitor,MEDIUM,no_defect,3,2026-07-05
+KM_990,990,98.0,-7.7,Rapidly Deteriorating,6.2,Failure in ~6 days — Schedule soon,MEDIUM,no_defect,3,2026-06-16
+KM_1210,1210,81.1,-0.1,Slowly Declining,311.0,Failure in ~311 days — Monitor,MEDIUM,rail_corrosion,2,2027-04-17
+KM_1040,1040,70.9,-0.57,Slowly Declining,36.9,Failure in ~36 days — Monitor,MEDIUM,no_defect,2,2026-07-16
+KM_1110,1110,58.1,-0.47,Slowly Declining,17.4,Failure in ~17 days — Monitor,MEDIUM,no_defect,2,2026-06-27
+KM_1120,1120,46.4,-0.25,Slowly Declining,0.0,ALREADY CRITICAL,CRITICAL,missing_bolt,3,2026-06-10
+KM_1070,1070,65.0,0.02,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,no_defect,3,N/A
+KM_1150,1150,58.8,-0.48,Slowly Declining,18.2,Failure in ~18 days — Monitor,MEDIUM,no_defect,3,2026-06-28
+KM_1180,1180,58.8,-0.07,Slowly Declining,132.0,Failure in ~132 days — Monitor,MEDIUM,no_defect,3,2026-10-20
+KM_1050,1050,66.2,0.22,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,no_defect,2,N/A
+KM_230,230,77.5,0.3,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,no_defect,3,N/A
+KM_1220,1220,88.0,-0.17,Slowly Declining,228.0,Failure in ~228 days — Monitor,MEDIUM,no_defect,2,2027-01-24
+KM_1230,1230,80.9,-0.03,Slowly Declining,927.0,Failure in ~926 days — Monitor,MEDIUM,no_defect,3,2028-12-23
+KM_1240,1240,88.0,-0.42,Slowly Declining,91.2,Failure in ~91 days — Monitor,MEDIUM,missing_bolt,2,2026-09-09
+KM_1030,1030,72.6,-0.3,Slowly Declining,75.3,Failure in ~75 days — Monitor,MEDIUM,no_defect,3,2026-08-24
+KM_1090,1090,64.6,-0.02,Slowly Declining,876.0,Failure in ~876 days — Monitor,MEDIUM,ballast_void,3,2028-11-02
+KM_1260,1260,93.0,-3.22,Deteriorating,13.4,Failure in ~13 days — Monitor,MEDIUM,no_defect,3,2026-06-23
+KM_130,130,63.8,-5.52,Rapidly Deteriorating,2.5,Failure in ~2 days — URGENT ACTION,HIGH,no_defect,3,2026-06-12
+KM_140,140,88.0,-0.05,Slowly Declining,760.0,Failure in ~760 days — Monitor,MEDIUM,surface_crack,3,2028-07-09
+KM_150,150,98.0,-8.28,Rapidly Deteriorating,5.8,Failure in ~5 days — Schedule soon,MEDIUM,surface_crack,3,2026-06-15
+KM_1020,1020,81.6,-0.7,Slowly Declining,45.1,Failure in ~45 days — Monitor,MEDIUM,no_defect,3,2026-07-25
+KM_160,160,75.1,-0.02,Slowly Declining,1506.0,Failure in ~1506 days — Monitor,MEDIUM,missing_bolt,3,2030-07-25
+KM_180,180,82.0,0.18,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,no_defect,3,N/A
+KM_200,200,71.6,0.0,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,no_defect,3,N/A
+KM_210,210,83.4,-0.4,Slowly Declining,83.5,Failure in ~83 days — Monitor,MEDIUM,weld_defect,3,2026-09-01
+KM_1080,1080,77.6,-3.23,Deteriorating,8.5,Failure in ~8 days — Monitor,MEDIUM,missing_bolt,3,2026-06-18
+KM_500,500,41.8,0.57,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,no_defect,3,N/A
+KM_300,300,44.6,0.58,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,no_defect,2,N/A
+KM_540,540,51.4,-0.13,Slowly Declining,10.5,Failure in ~10 days — Monitor,MEDIUM,no_defect,2,2026-06-20
+KM_1190,1190,43.7,0.88,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,no_defect,2,N/A
+KM_1140,1140,41.9,0.75,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,no_defect,2,N/A
+KM_400,400,78.9,0.72,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,no_defect,1,N/A
+KM_960,960,80.7,-0.83,Slowly Declining,36.8,Failure in ~36 days — Monitor,MEDIUM,no_defect,1,2026-07-16
+KM_550,550,45.4,0.08,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,surface_crack,1,N/A
+KM_250,250,74.4,-0.18,Slowly Declining,133.1,Failure in ~133 days — Monitor,MEDIUM,no_defect,1,2026-10-21
+KM_1100,1100,45.8,0.1,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,no_defect,1,N/A
+KM_840,840,59.3,0.33,Stable/Improving,inf,STABLE — No critical failure expected,HIGH,no_defect,1,N/A
